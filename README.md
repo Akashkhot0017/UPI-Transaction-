@@ -62,6 +62,7 @@ An interactive Power BI dashboard was developed to visualize:
 
 ## Dashboard Snapshot  
 
-<img width="1730" height="846" alt="Screenshot 2025-09-01 134723" src="https://github.com/user-attachments/assets/1cc94b0e-7915-4280-a44b-84ca045a481e" />
+<img width="1737" height="843" alt="Screenshot 2025-09-01 140105" src="https://github.com/user-attachments/assets/00cc45c8-c86d-41f1-97d7-5260afbaa804" />
+
 
 ---
